@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+
+  <!-- Canonical resource entries matching files in the Resources folder -->
+  <data name="Apples" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Apples.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Bananas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bananas.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Beef" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beef.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Biscuits" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biscuits.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Bread" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bread.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Cheese" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cheese.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Chiken" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chiken.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Chocolate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chocolate.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Coffee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Coffee.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Cooking Oil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cooking Oil.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Diapers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Diapers.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Egg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Egg.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Fish" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fish.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Floor Cleaner" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Floor Cleaner.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Garbage Bags" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Garbage Bags.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Insect Spray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Insect Spray.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Juice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Juice.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Milk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Milk.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Mineral Water" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mineral Water.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Onions" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Onions.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Oranges" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oranges.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Pasta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pasta.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="PlatEggs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PlatEggs.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Potato Chips" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Potato Chips.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Potatoes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Potatoes.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Rice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rice.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Salt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Salt.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Sardines" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sardines.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Shampoo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shampoo.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Soap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soap.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Soft Drink" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Soft Drink.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Strawberries" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Strawberries.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Sugar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sugar.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Tea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tea.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Tissues" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tissues.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Tomatoes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tomatoes.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Toothbrush" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toothbrush.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Toothpaste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toothpaste.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Tuna" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tuna.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Wet Wipes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wet Wipes.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="Yougurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Yougurt.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+</root>
